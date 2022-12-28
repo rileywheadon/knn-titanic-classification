@@ -1,0 +1,419 @@
+PassengerId,Pclass,Sex,Age,Company,Fare,Cabin,Embarked,Title
+892,3,male,Adult,Alone,2.17806441028492,M,Q,Mr
+893,3,female,Adult,Family,2.0794415416798357,M,S,Mrs
+894,2,male,Adult,Alone,2.3690748342628787,M,Q,Mr
+895,3,male,Young Adult,Alone,2.2682524139135403,M,S,Mr
+896,3,female,Young Adult,Family,2.586823743668066,M,S,Mrs
+897,3,male,Child,Alone,2.3248357019288655,M,S,Mr
+898,3,female,Young Adult,Alone,2.155151800914312,M,Q,Miss
+899,2,male,Young Adult,Family,3.4011973816621555,M,S,Mr
+900,3,female,Child,Alone,2.1076888046179385,M,C,Mrs
+901,3,male,Young Adult,Family,3.224857896545748,M,S,Mr
+902,3,male,Adult,Alone,2.1855792552411137,M,S,Mr
+903,1,male,Adult,Alone,3.295836866004329,M,S,Mr
+904,1,female,Young Adult,Family,4.422048709343544,Other,S,Mrs
+905,2,male,Adult,Family,3.295836866004329,M,S,Mr
+906,1,female,Adult,Family,4.1299529896894684,Other,S,Mrs
+907,2,female,Young Adult,Family,3.357621598945279,M,C,Mrs
+908,2,male,Adult,Alone,2.5915163848462583,M,Q,Mr
+909,3,male,Young Adult,Alone,2.1071782966514356,M,C,Mr
+910,3,female,Young Adult,Family,2.188856327665703,M,S,Miss
+911,3,female,Adult,Alone,2.1071782966514356,M,C,Mrs
+912,1,male,Adult,Family,4.100989104940769,M,C,Mr
+913,3,male,Child,Family,1.428107863933301,M,S,Master
+914,1,female,Adult,Alone,3.4868642440859134,M,S,Mrs
+915,1,male,Young Adult,Family,4.133231886474144,M,C,Mr
+916,1,female,Adult,Family,5.5735788721243535,Other,C,Mrs
+917,3,male,Adult,Family,2.740840023925201,M,S,Mr
+918,1,female,Young Adult,Family,4.142804513146981,Other,C,Miss
+919,3,male,Young Adult,Alone,2.1071782966514356,M,C,Mr
+920,1,male,Adult,Alone,3.449987545831587,Other,S,Mr
+921,3,male,Adult,Family,3.1214482048688246,M,C,Mr
+922,2,male,Adult,Family,3.295836866004329,M,S,Mr
+923,2,male,Young Adult,Family,3.481240089335692,M,S,Mr
+924,3,female,Adult,Family,3.0715352369694915,M,S,Mrs
+925,3,female,Adult,Family,3.196630215920881,M,S,Mrs
+926,1,male,Young Adult,Family,4.073291153024268,Other,C,Mr
+927,3,male,Child,Alone,2.1076888046179385,M,C,Mr
+928,3,female,Adult,Alone,2.2027647577118348,M,S,Miss
+929,3,female,Young Adult,Alone,2.2682524139135403,M,S,Miss
+930,3,male,Young Adult,Alone,2.3513752571634776,M,S,Mr
+931,3,male,Adult,Alone,4.05171190165724,M,S,Mr
+932,3,male,Adult,Family,2.668387256845834,M,C,Mr
+933,1,male,Adult,Alone,3.3160025355989236,Other,S,Mr
+934,3,male,Adult,Alone,2.180417459019838,M,S,Mr
+935,2,female,Young Adult,Alone,2.6390573296152584,M,S,Mrs
+936,1,female,Adult,Family,3.9806942251907276,Other,S,Mrs
+937,3,male,Young Adult,Alone,2.188856327665703,M,S,Mr
+938,1,male,Adult,Alone,3.4242626545931514,Other,C,Mr
+939,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+940,1,female,Adult,Alone,4.347586575960343,Other,C,Mrs
+941,3,female,Adult,Family,2.8273136219290276,M,S,Mrs
+942,1,male,Young Adult,Family,4.110873864173311,Other,S,Mr
+943,2,male,Young Adult,Alone,2.7746678094393658,M,C,Mr
+944,2,female,Child,Family,3.1780538303479458,M,S,Miss
+945,1,female,Young Adult,Family,5.575949103146316,Other,S,Miss
+946,2,male,Adult,Alone,2.808148897638332,M,C,Mr
+947,3,male,Child,Family,3.405355391810819,M,Q,Master
+948,3,male,Adult,Alone,2.1855792552411137,M,S,Mr
+949,3,male,Young Adult,Alone,2.157559320943788,Other,S,Mr
+950,3,male,Adult,Family,2.8390784635086144,M,S,Mr
+951,1,female,Adult,Alone,5.5735788721243535,Other,C,Miss
+952,3,male,Child,Alone,2.1855792552411137,M,S,Mr
+953,2,male,Adult,Alone,2.6741486494265287,M,S,Mr
+954,3,male,Child,Alone,2.169053700369523,M,S,Mr
+955,3,female,Young Adult,Alone,2.1661924680884908,M,Q,Miss
+956,1,male,Child,Family,5.5735788721243535,Other,C,Master
+957,2,female,Adult,Alone,3.091042453358316,M,S,Mrs
+958,3,female,Child,Alone,2.1837114628556327,M,Q,Miss
+959,1,male,Adult,Alone,3.770459441106359,M,S,Mr
+960,1,male,Adult,Alone,3.3856606425130265,Other,C,Mr
+961,1,female,Adult,Family,5.575949103146316,Other,S,Mrs
+962,3,female,Young Adult,Alone,2.169053700369523,M,Q,Miss
+963,3,male,Young Adult,Alone,2.1855792552411137,M,S,Mr
+964,3,female,Young Adult,Alone,2.188856327665703,M,S,Miss
+965,1,male,Young Adult,Alone,3.357621598945279,Other,C,Mr
+966,1,female,Adult,Alone,5.358941988364472,Other,C,Miss
+967,1,male,Adult,Alone,5.358941988364472,Other,C,Mr
+968,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+969,1,female,Adult,Family,3.2846635654062037,Other,S,Mrs
+970,2,male,Young Adult,Alone,2.6390573296152584,M,S,Mr
+971,3,female,Young Adult,Alone,2.169053700369523,M,Q,Miss
+972,3,male,Child,Family,2.7878344138303452,M,C,Master
+973,1,male,Senior,Family,5.406181146423973,Other,S,Mr
+974,1,male,Adult,Alone,3.295836866004329,M,S,Mr
+975,3,male,Adult,Alone,2.1855792552411137,M,S,Mr
+976,2,male,Adult,Alone,2.4602979920066583,M,Q,Mr
+977,3,male,Adult,Family,2.737880811060884,M,C,Mr
+978,3,female,Young Adult,Alone,2.1837114628556327,M,Q,Miss
+979,3,female,Child,Alone,2.2027647577118348,M,S,Miss
+980,3,female,Adult,Alone,2.169053700369523,M,Q,Other
+981,2,male,Infant,Family,3.1780538303479458,M,S,Master
+982,3,female,Young Adult,Family,2.7013612129514133,M,S,Mrs
+983,3,male,Adult,Alone,2.1719067693519296,M,S,Mr
+984,1,female,Young Adult,Family,3.970291913552122,Other,S,Mrs
+985,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+986,1,male,Young Adult,Alone,3.295836866004329,M,C,Mr
+987,3,male,Young Adult,Alone,2.174274334826008,M,S,Mr
+988,1,female,Senior,Family,4.380149874661021,Other,S,Mrs
+989,3,male,Young Adult,Alone,2.188856327665703,M,S,Mr
+990,3,female,Child,Alone,2.180891922715322,M,S,Miss
+991,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+992,1,female,Adult,Family,4.0332082470129285,Other,C,Mrs
+993,2,male,Young Adult,Family,3.295836866004329,M,S,Mr
+994,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+995,3,male,Young Adult,Alone,2.1719067693519296,M,S,Mr
+996,3,female,Child,Family,2.2530481500547457,M,C,Mrs
+997,3,male,Young Adult,Alone,3.1580636854714434,M,S,Mr
+998,3,male,Young Adult,Alone,2.177112568853282,M,Q,Mr
+999,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1000,3,male,Adult,Alone,2.2734137156937657,M,S,Mr
+1001,2,male,Child,Alone,2.6390573296152584,Other,S,Mr
+1002,2,male,Adult,Alone,2.775447133088262,M,C,Mr
+1003,3,female,Adult,Alone,2.172385287322574,M,Q,Miss
+1004,1,female,Adult,Alone,3.486738789888005,Other,C,Miss
+1005,3,female,Child,Alone,2.114241439721562,M,Q,Miss
+1006,1,female,Adult,Family,5.406181146423973,Other,S,Mrs
+1007,3,male,Child,Family,2.737880811060884,M,C,Mr
+1008,3,male,Adult,Alone,2.006534770871748,M,C,Mr
+1009,3,female,Infant,Family,2.8735646395797834,Other,S,Miss
+1010,1,male,Adult,Alone,4.333908557103646,Other,C,Mr
+1011,2,female,Young Adult,Family,3.295836866004329,M,S,Mrs
+1012,2,female,Child,Alone,2.8183982582710754,M,S,Miss
+1013,3,male,Adult,Family,2.169053700369523,M,Q,Mr
+1014,1,female,Adult,Family,4.073291153024268,Other,C,Mrs
+1015,3,male,Young Adult,Alone,2.1102132003465894,M,S,Mr
+1016,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1017,3,female,Child,Family,2.8390784635086144,M,S,Miss
+1018,3,male,Young Adult,Alone,2.174274334826008,M,S,Mr
+1019,3,female,Adult,Family,3.188416617383492,M,Q,Miss
+1020,2,male,Adult,Alone,2.6390573296152584,M,S,Mr
+1021,3,male,Young Adult,Alone,2.2027647577118348,M,S,Mr
+1022,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+1023,1,male,Adult,Alone,3.3843902633457743,Other,C,Other
+1024,3,female,Adult,Family,3.275887339030031,M,S,Mrs
+1025,3,male,Adult,Family,2.006534770871748,M,C,Mr
+1026,3,male,Adult,Alone,2.1855792552411137,M,S,Mr
+1027,3,male,Young Adult,Alone,2.180891922715322,M,S,Mr
+1028,3,male,Young Adult,Alone,2.1071782966514356,M,C,Mr
+1029,2,male,Young Adult,Alone,2.6390573296152584,M,S,Mr
+1030,3,female,Young Adult,Alone,2.2027647577118348,M,S,Miss
+1031,3,male,Adult,Family,3.8691155044168695,M,S,Mr
+1032,3,female,Child,Family,3.8691155044168695,M,S,Miss
+1033,1,female,Adult,Alone,5.027492411162679,M,S,Miss
+1034,1,male,Adult,Family,5.5735788721243535,Other,C,Mr
+1035,2,male,Young Adult,Alone,3.295836866004329,M,S,Mr
+1036,1,male,Adult,Alone,3.3160025355989236,M,S,Mr
+1037,3,male,Adult,Family,2.9444389791664403,M,S,Mr
+1038,1,male,Adult,Alone,3.967694202798607,Other,S,Mr
+1039,3,male,Young Adult,Alone,2.2027647577118348,M,S,Mr
+1040,1,male,Adult,Alone,3.3160025355989236,M,S,Mr
+1041,2,male,Young Adult,Family,3.295836866004329,M,S,Other
+1042,1,female,Young Adult,Family,4.432699549165613,Other,C,Mrs
+1043,3,male,Adult,Alone,2.1855792552411137,M,C,Mr
+1044,3,male,Adult,Alone,1.791759469228055,M,S,Mr
+1045,3,female,Adult,Family,2.57895087709735,M,S,Mrs
+1046,3,male,Child,Family,3.4777725458882283,M,S,Master
+1047,3,male,Young Adult,Alone,2.145931282948669,M,S,Mr
+1048,1,female,Young Adult,Alone,5.406181146423973,Other,S,Miss
+1049,3,female,Young Adult,Alone,2.180891922715322,M,S,Miss
+1050,1,male,Adult,Alone,3.3160025355989236,Other,S,Mr
+1051,3,female,Young Adult,Family,2.692936563292162,M,S,Mrs
+1052,3,female,Adult,Alone,2.167143305297764,M,Q,Miss
+1053,3,male,Child,Family,2.7878344138303452,M,C,Master
+1054,2,female,Young Adult,Alone,2.6741486494265287,M,S,Miss
+1055,3,male,Adult,Alone,2.0794415416798357,M,S,Mr
+1056,2,male,Adult,Alone,2.6390573296152584,M,S,Other
+1057,3,female,Young Adult,Family,3.1365805821413706,M,S,Mrs
+1058,1,male,Adult,Alone,3.941500250945973,Other,C,Mr
+1059,3,male,Child,Family,3.5660053559634015,M,S,Mr
+1060,1,female,Adult,Alone,3.357621598945279,M,C,Mrs
+1061,3,female,Young Adult,Alone,2.2988280441163336,M,S,Miss
+1062,3,male,Adult,Alone,2.145931282948669,M,S,Mr
+1063,3,male,Young Adult,Alone,2.1071782966514356,M,C,Mr
+1064,3,male,Young Adult,Family,2.7013612129514133,M,S,Mr
+1065,3,male,Adult,Alone,2.1076888046179385,M,C,Mr
+1066,3,male,Adult,Family,3.4777725458882283,M,S,Mr
+1067,2,female,Child,Family,3.6888794541139363,M,S,Miss
+1068,2,female,Child,Alone,3.6309854756950335,M,S,Miss
+1069,1,male,Adult,Family,4.0332082470129285,Other,C,Mr
+1070,2,female,Adult,Family,3.6888794541139363,Other,S,Mrs
+1071,1,female,Adult,Family,4.432699549165613,Other,C,Mrs
+1072,2,male,Young Adult,Alone,2.6390573296152584,M,S,Mr
+1073,1,male,Adult,Family,4.432699549165613,Other,C,Mr
+1074,1,female,Child,Family,3.9908341858524357,Other,S,Mrs
+1075,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1076,1,female,Young Adult,Family,5.515526544247129,Other,C,Mrs
+1077,2,male,Adult,Alone,2.833213344056216,M,S,Mr
+1078,2,female,Young Adult,Family,3.091042453358316,M,S,Miss
+1079,3,male,Child,Family,2.2027647577118348,M,S,Mr
+1080,3,female,Adult,Family,4.256321678298823,M,S,Miss
+1081,2,male,Adult,Alone,2.6390573296152584,M,S,Mr
+1082,2,male,Adult,Family,3.295836866004329,M,S,Mr
+1083,1,male,Adult,Alone,3.295836866004329,M,S,Mr
+1084,3,male,Child,Family,2.740840023925201,M,S,Master
+1085,2,male,Adult,Alone,2.5915163848462583,M,Q,Mr
+1086,2,male,Child,Family,3.5115454388310208,M,S,Master
+1087,3,male,Adult,Alone,2.180891922715322,M,S,Mr
+1088,1,male,Child,Family,4.908971640319756,Other,C,Master
+1089,3,female,Child,Alone,2.1719067693519296,M,S,Miss
+1090,2,male,Young Adult,Alone,2.4423470353692043,M,S,Mr
+1091,3,female,Adult,Alone,2.2096470973347766,M,S,Mrs
+1092,3,female,Adult,Alone,2.803360380906535,M,Q,Miss
+1093,3,male,Infant,Family,2.7343675094195836,M,S,Master
+1094,1,male,Adult,Family,5.4316456135398825,Other,C,Other
+1095,2,female,Child,Family,3.295836866004329,M,S,Miss
+1096,2,male,Young Adult,Alone,2.4423470353692043,M,S,Mr
+1097,1,male,Adult,Alone,3.286224144821269,M,C,Mr
+1098,3,female,Adult,Alone,2.169053700369523,M,Q,Miss
+1099,2,male,Young Adult,Alone,2.4423470353692043,M,S,Mr
+1100,1,female,Adult,Alone,3.357621598945279,Other,C,Miss
+1101,3,male,Young Adult,Alone,2.1855792552411137,M,S,Mr
+1102,3,male,Adult,Alone,3.1580636854714434,M,S,Mr
+1103,3,male,Adult,Alone,2.0856720914304723,M,S,Mr
+1104,2,male,Child,Alone,4.310799125385514,M,S,Mr
+1105,2,female,Adult,Family,3.295836866004329,M,S,Mrs
+1106,3,female,Adult,Family,2.1719067693519296,M,S,Miss
+1107,1,male,Adult,Alone,3.7727609380946383,Other,S,Mr
+1108,3,female,Adult,Alone,2.1837114628556327,M,Q,Miss
+1109,1,male,Adult,Family,5.11118445372147,M,S,Mr
+1110,1,female,Adult,Family,5.358941988364472,Other,C,Mrs
+1111,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+1112,2,female,Young Adult,Family,2.698558631668595,M,C,Miss
+1113,3,male,Young Adult,Alone,2.2027647577118348,M,S,Mr
+1114,2,female,Young Adult,Alone,2.4423470353692043,Other,S,Mrs
+1115,3,male,Young Adult,Alone,2.174274334826008,M,S,Mr
+1116,1,female,Adult,Alone,3.34800052225782,M,C,Mrs
+1117,3,female,Adult,Family,2.7878344138303452,M,C,Mrs
+1118,3,male,Young Adult,Alone,2.174274334826008,M,S,Mr
+1119,3,female,Adult,Alone,2.169053700369523,M,Q,Miss
+1120,3,male,Adult,Alone,2.7788192719904172,M,S,Mr
+1121,2,male,Adult,Alone,2.6390573296152584,M,S,Mr
+1122,2,male,Child,Alone,4.189654742026425,M,S,Mr
+1123,1,female,Young Adult,Alone,3.3160025355989236,M,S,Miss
+1124,3,male,Young Adult,Family,2.0143428636837015,M,S,Mr
+1125,3,male,Adult,Alone,2.1837114628556327,M,Q,Mr
+1126,1,male,Adult,Family,4.2805931204649,Other,C,Mr
+1127,3,male,Child,Alone,2.180891922715322,M,S,Mr
+1128,1,male,Adult,Family,4.334017415487521,Other,C,Mr
+1129,3,male,Child,Alone,2.1071782966514356,M,C,Mr
+1130,2,female,Child,Family,2.6390573296152584,M,S,Miss
+1131,1,female,Adult,Family,4.676792929661059,Other,C,Mrs
+1132,1,female,Adult,Alone,3.357621598945279,M,C,Mrs
+1133,2,female,Adult,Family,3.4339872044851463,M,S,Mrs
+1134,1,male,Adult,Family,4.908971640319756,Other,C,Mr
+1135,3,male,Adult,Alone,2.184645795129359,M,S,Mr
+1136,3,male,Adult,Family,3.196630215920881,M,S,Master
+1137,1,male,Adult,Family,3.967694202798607,Other,S,Mr
+1138,2,female,Young Adult,Alone,3.091042453358316,M,S,Mrs
+1139,2,male,Adult,Family,3.5115454388310208,M,S,Mr
+1140,2,female,Young Adult,Family,3.295836866004329,M,S,Mrs
+1141,3,female,Adult,Family,2.737880811060884,M,C,Mrs
+1142,2,female,Infant,Family,3.3586377672433594,M,S,Miss
+1143,3,male,Child,Alone,2.188856327665703,M,S,Mr
+1144,1,male,Young Adult,Family,4.925652403790231,Other,C,Mr
+1145,3,male,Young Adult,Alone,2.3345681388470965,M,S,Mr
+1146,3,male,Adult,Alone,2.3513752571634776,M,S,Mr
+1147,3,male,Adult,Alone,2.145931282948669,M,S,Mr
+1148,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1149,3,male,Young Adult,Alone,2.2027647577118348,M,S,Mr
+1150,2,female,Child,Alone,2.6390573296152584,M,S,Miss
+1151,3,male,Young Adult,Alone,2.1719067693519296,M,S,Mr
+1152,3,male,Adult,Family,2.91235066461494,M,S,Mr
+1153,3,male,Young Adult,Alone,2.180891922715322,M,S,Mr
+1154,2,female,Young Adult,Family,3.1780538303479458,M,S,Mrs
+1155,3,female,Infant,Family,2.57895087709735,M,S,Miss
+1156,2,male,Young Adult,Alone,2.62012931972974,M,C,Mr
+1157,3,male,Adult,Alone,2.1855792552411137,M,S,Mr
+1158,1,male,Adult,Alone,0.0,M,S,Mr
+1159,3,male,Adult,Alone,2.145931282948669,M,S,Mr
+1160,3,female,Adult,Alone,2.2027647577118348,M,S,Miss
+1161,3,male,Child,Alone,2.2682524139135403,M,S,Mr
+1162,1,male,Adult,Alone,4.333908557103646,Other,C,Mr
+1163,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1164,1,female,Young Adult,Family,4.925652403790231,Other,C,Mrs
+1165,3,female,Adult,Family,2.803360380906535,M,Q,Miss
+1166,3,male,Adult,Alone,2.1071782966514356,M,C,Mr
+1167,2,female,Child,Family,3.295836866004329,M,S,Miss
+1168,2,male,Young Adult,Alone,2.4423470353692043,M,S,Mr
+1169,2,male,Adult,Family,3.295836866004329,M,S,Mr
+1170,2,male,Young Adult,Family,3.091042453358316,M,S,Mr
+1171,2,male,Young Adult,Alone,2.4423470353692043,M,S,Mr
+1172,3,female,Young Adult,Alone,2.2682524139135403,M,S,Miss
+1173,3,male,Infant,Family,2.692936563292162,M,S,Master
+1174,3,female,Adult,Alone,2.169053700369523,M,Q,Miss
+1175,3,female,Child,Family,2.7878344138303452,M,C,Miss
+1176,3,female,Infant,Family,3.0545906305603445,M,S,Miss
+1177,3,male,Adult,Alone,2.1102132003465894,M,S,Mr
+1178,3,male,Adult,Alone,2.1102132003465894,M,S,Mr
+1179,1,male,Young Adult,Family,4.422048709343544,Other,S,Mr
+1180,3,male,Adult,Alone,2.1076888046179385,Other,C,Mr
+1181,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+1182,1,male,Adult,Alone,3.703768066607687,M,S,Mr
+1183,3,female,Young Adult,Alone,2.0731719286662407,M,Q,Miss
+1184,3,male,Adult,Alone,2.1076888046179385,M,C,Mr
+1185,1,male,Adult,Family,4.417131919904876,Other,S,Other
+1186,3,male,Adult,Alone,2.3513752571634776,M,S,Mr
+1187,3,male,Young Adult,Alone,2.1855792552411137,M,S,Mr
+1188,2,female,Infant,Family,3.7513658711253766,M,C,Miss
+1189,3,male,Adult,Family,3.1214482048688246,M,C,Mr
+1190,1,male,Young Adult,Alone,3.8394523125933104,M,S,Mr
+1191,3,male,Young Adult,Alone,2.180891922715322,M,S,Mr
+1192,3,male,Adult,Alone,2.1719067693519296,M,S,Mr
+1193,2,male,Adult,Alone,2.775447133088262,Other,C,Mr
+1194,2,male,Adult,Family,3.091042453358316,M,S,Mr
+1195,3,male,Young Adult,Alone,2.2682524139135403,M,S,Mr
+1196,3,female,Adult,Alone,2.169053700369523,M,Q,Miss
+1197,1,female,Adult,Family,3.3160025355989236,Other,S,Mrs
+1198,1,male,Young Adult,Family,5.027492411162679,Other,S,Mr
+1199,3,male,Infant,Family,2.336986519711378,M,S,Master
+1200,1,male,Adult,Family,4.548599834499697,Other,S,Mr
+1201,3,female,Adult,Family,2.7152442616824506,M,S,Mrs
+1202,3,male,Child,Alone,2.2682524139135403,M,S,Mr
+1203,3,male,Young Adult,Alone,2.1071782966514356,M,C,Mr
+1204,3,male,Adult,Alone,2.1488509930520037,M,S,Mr
+1205,3,female,Adult,Alone,2.169053700369523,M,Q,Miss
+1206,1,female,Adult,Alone,4.91730069488021,Other,C,Mrs
+1207,3,female,Child,Alone,2.167143305297764,M,Q,Miss
+1208,1,male,Adult,Family,4.993969182787072,Other,C,Mr
+1209,2,male,Child,Alone,2.4423470353692043,M,S,Mr
+1210,3,male,Young Adult,Alone,2.180891922715322,M,S,Mr
+1211,2,male,Young Adult,Family,3.481240089335692,M,S,Mr
+1212,3,male,Young Adult,Alone,2.1719067693519296,M,S,Mr
+1213,3,male,Young Adult,Alone,2.1076888046179385,Other,C,Mr
+1214,2,male,Young Adult,Alone,2.6390573296152584,Other,S,Mr
+1215,1,male,Adult,Alone,3.3160025355989236,M,S,Mr
+1216,1,female,Adult,Alone,5.35817698994543,M,S,Miss
+1217,3,male,Young Adult,Alone,2.0856720914304723,M,S,Mr
+1218,2,female,Child,Family,3.6888794541139363,Other,S,Miss
+1219,1,male,Adult,Alone,4.384523514872469,M,C,Mr
+1220,2,male,Young Adult,Family,3.295836866004329,M,S,Mr
+1221,2,male,Young Adult,Alone,2.6390573296152584,M,S,Mr
+1222,2,female,Adult,Family,3.6309854756950335,M,S,Mrs
+1223,1,male,Adult,Alone,3.4242626545931514,Other,C,Mr
+1224,3,male,Adult,Alone,2.1071782966514356,M,C,Mr
+1225,3,female,Child,Family,2.817902613071225,M,C,Mrs
+1226,3,male,Young Adult,Alone,2.1855792552411137,M,S,Mr
+1227,1,male,Young Adult,Alone,3.295836866004329,Other,S,Mr
+1228,2,male,Adult,Alone,2.6390573296152584,M,S,Mr
+1229,3,male,Adult,Family,2.1076888046179385,M,C,Mr
+1230,2,male,Young Adult,Alone,3.481240089335692,M,S,Mr
+1231,3,male,Adult,Alone,2.1076888046179385,M,C,Master
+1232,2,male,Child,Alone,2.4423470353692043,M,S,Mr
+1233,3,male,Adult,Alone,2.149340669059503,M,S,Mr
+1234,3,male,Adult,Family,4.256321678298823,M,S,Mr
+1235,1,female,Adult,Family,6.240917354759096,Other,C,Mrs
+1236,3,male,Adult,Family,2.740840023925201,M,S,Master
+1237,3,female,Child,Alone,2.157559320943788,M,S,Miss
+1238,2,male,Young Adult,Alone,2.6390573296152584,M,S,Mr
+1239,3,female,Adult,Alone,2.1076888046179385,M,C,Mrs
+1240,2,male,Young Adult,Alone,2.6741486494265287,M,S,Mr
+1241,2,female,Adult,Alone,3.091042453358316,M,S,Miss
+1242,1,female,Adult,Family,4.164465907853638,Other,C,Mrs
+1243,2,male,Young Adult,Alone,2.4423470353692043,M,S,Mr
+1244,2,male,Child,Alone,4.310799125385514,M,S,Mr
+1245,2,male,Adult,Family,4.189654742026425,M,S,Mr
+1246,3,female,Infant,Family,3.0715352369694915,M,S,Miss
+1247,1,male,Adult,Alone,3.295836866004329,Other,S,Mr
+1248,1,female,Adult,Family,3.960416900617205,Other,S,Mrs
+1249,3,male,Adult,Alone,2.1837114628556327,M,S,Mr
+1250,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1251,3,female,Young Adult,Family,2.806386101823072,M,S,Mrs
+1252,3,male,Child,Family,4.256321678298823,M,S,Master
+1253,2,female,Young Adult,Family,3.637696679934592,M,C,Mrs
+1254,2,female,Adult,Alone,3.091042453358316,M,S,Mrs
+1255,3,male,Young Adult,Alone,2.2682524139135403,M,S,Mr
+1256,1,female,Young Adult,Family,4.0332082470129285,Other,C,Mrs
+1257,3,female,Adult,Family,4.256321678298823,M,S,Mrs
+1258,3,male,Adult,Family,2.738146075922933,M,C,Mr
+1259,3,female,Young Adult,Alone,3.705920919968788,M,S,Miss
+1260,1,female,Adult,Family,4.100989104940769,M,C,Mrs
+1261,2,male,Young Adult,Alone,2.698558631668595,M,C,Mr
+1262,2,male,Young Adult,Family,2.5257286443082556,M,S,Mr
+1263,1,female,Adult,Alone,4.908971640319756,Other,C,Miss
+1264,1,male,Adult,Alone,0.0,Other,S,Mr
+1265,2,male,Adult,Alone,2.6390573296152584,M,S,Mr
+1266,1,female,Adult,Family,4.417131919904876,Other,S,Mrs
+1267,1,female,Adult,Alone,5.5735788721243535,M,C,Miss
+1268,3,female,Young Adult,Family,2.2682524139135403,M,S,Miss
+1269,2,male,Young Adult,Alone,2.5257286443082556,M,S,Mr
+1270,1,male,Adult,Alone,3.9318256327243257,Other,S,Mr
+1271,3,male,Infant,Family,3.4777725458882283,M,S,Master
+1272,3,male,Adult,Alone,2.169053700369523,M,Q,Mr
+1273,3,male,Young Adult,Alone,2.1837114628556327,M,Q,Mr
+1274,3,female,Adult,Alone,2.740840023925201,M,S,Mrs
+1275,3,female,Child,Family,2.8390784635086144,M,S,Mrs
+1276,2,male,Adult,Alone,2.630088659632498,M,S,Mr
+1277,2,female,Young Adult,Family,4.189654742026425,M,S,Miss
+1278,3,male,Young Adult,Alone,2.1719067693519296,M,S,Mr
+1279,2,male,Adult,Alone,2.6390573296152584,M,S,Mr
+1280,3,male,Young Adult,Alone,2.169053700369523,M,Q,Mr
+1281,3,male,Child,Family,3.0944457464900235,M,S,Master
+1282,1,male,Young Adult,Alone,4.548599834499697,Other,S,Mr
+1283,1,female,Adult,Family,3.6988297849671046,Other,S,Mrs
+1284,3,male,Child,Family,3.056356895370426,M,S,Master
+1285,2,male,Adult,Alone,2.4423470353692043,M,S,Mr
+1286,3,male,Young Adult,Family,3.1365805821413706,M,S,Mr
+1287,1,female,Child,Family,4.110873864173311,Other,S,Mrs
+1288,3,male,Young Adult,Alone,2.1102132003465894,M,Q,Mr
+1289,1,female,Adult,Family,4.384523514872469,Other,C,Mrs
+1290,3,male,Young Adult,Alone,2.1719067693519296,M,S,Mr
+1291,3,male,Adult,Alone,2.167143305297764,M,Q,Mr
+1292,1,female,Young Adult,Alone,5.11118445372147,Other,S,Miss
+1293,2,male,Adult,Family,3.091042453358316,M,S,Mr
+1294,1,female,Young Adult,Family,4.100989104940769,M,C,Miss
+1295,1,male,Child,Alone,3.8732821771117156,M,S,Mr
+1296,1,male,Adult,Family,3.357621598945279,Other,C,Mr
+1297,2,male,Child,Alone,2.6988412620169004,Other,C,Mr
+1298,2,male,Young Adult,Family,2.4423470353692043,M,S,Mr
+1299,1,male,Adult,Family,5.358941988364472,Other,C,Mr
+1300,3,female,Adult,Alone,2.165710976832012,M,Q,Miss
+1301,3,female,Infant,Family,2.692936563292162,M,S,Miss
+1302,3,female,Adult,Alone,2.169053700369523,M,Q,Miss
+1303,1,female,Adult,Family,4.51085950651685,Other,Q,Mrs
+1304,3,female,Young Adult,Alone,2.1719067693519296,M,S,Miss
+1305,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+1306,1,female,Adult,Alone,4.699570861409576,Other,C,Other
+1307,3,male,Adult,Alone,2.1102132003465894,M,S,Mr
+1308,3,male,Adult,Alone,2.2027647577118348,M,S,Mr
+1309,3,male,Adult,Family,3.1509523813392697,M,C,Master
